@@ -21,7 +21,6 @@ public class Yazar {
     }
 }
 
-
 public class YazarIslemleri {
     private static Yazar[] yazarlar;
     static {
