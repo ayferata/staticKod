@@ -33,5 +33,7 @@ public class YazarIslemleri {
     }
     public static Yazar[] getYazarlar() {
         return YazarIslemleri.yazarlar;
+        
     }
+    
 }
